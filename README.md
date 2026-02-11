@@ -16,8 +16,6 @@
 
 ### 📑 Resumen de herramientas utilizadas
 * **GitHub**
-* **Gemini** 
-* **Visual Studio Code** 
-* **Ideogram**
-
+* **Visual Studio Code**
+* **Git**
 ---
