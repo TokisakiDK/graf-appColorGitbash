@@ -1,3 +1,4 @@
+//LÓGICA DEL SITIO
 const rRange = document.getElementById('rRange'),
       gRange = document.getElementById('gRange'),
       bRange = document.getElementById('bRange'),
