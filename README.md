@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Tema 1.4: Práctica integradora bandera de México
+### 💻 Tema 1.3: Sistema de control de versiones
 
 | 👤 Información del Autor | 📋 Detalle |
 | :--- | :--- |
